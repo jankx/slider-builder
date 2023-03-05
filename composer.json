@@ -1,0 +1,21 @@
+{
+    "name": "jankx/slider-builder",
+    "description": "Create the beautiful slider for Jankx framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\SliderBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "jankx/core" : "*"
+    }
+}
